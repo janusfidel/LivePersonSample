@@ -1,7 +1,7 @@
 # Steps to reproduce:
 
-1. Run the sample project in Swift folder with simulator
-2. Open `Messaging`
+1. Open the project in `Swift/SampleApp-Swift.xcworkspace` with Xcode, run the app with simulator
+2. In the app, open `Messaging`
 3.  Tap on `Init SDK`
 4.  Go to app's Document directory (this should be printed in your debugger console)
 5.  Replace the file `Consumer.sqlite` in documents directory with the attached `Consumer.sqlite` file
